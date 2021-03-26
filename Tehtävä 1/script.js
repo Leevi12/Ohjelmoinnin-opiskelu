@@ -42,7 +42,7 @@ else if ((z<x)&&(z<y))
     }
 }
 
-//tehtävä kaksi suurin luku
+//tehtävä 2 suurin luku
 
 function suurin()
 {
